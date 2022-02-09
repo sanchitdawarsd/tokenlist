@@ -29,7 +29,7 @@
       "tags": [
         "vault"
       ],
-      "chainId": 1,
+      "chainId": 80001,
       "address": "0x801FC386bd0a7998EE162ffF32b793D0624f3476",
       "symbol": "usdt",
       "name": "usdt",
