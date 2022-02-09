@@ -30,9 +30,9 @@
         "vault"
       ],
       "chainId": 1,
-      "address": "0x87931E7AD81914e7898d07c68F145fC0A553D8Fb",
-      "symbol": "WIZARD",
-      "name": "Forgotten Runes Wizards Cult",
+      "address": "0x801FC386bd0a7998EE162ffF32b793D0624f3476",
+      "symbol": "usdt",
+      "name": "usdt",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/24/256x256.png"
     },
@@ -41,9 +41,9 @@
         "vault"
       ],
       "chainId": 80001,
-      "address": "0xE7F4c89032A2488D327323548AB0459676269331",
-      "symbol": "WAIFU",
-      "name": "Waifusion",
+      "address": "0x99B92f7b3C65152Eb7654b7e0bdb08C659077CaA",
+      "symbol": "WMATIC",
+      "name": "wmatic",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/10/256x256.png"
     },
@@ -52,9 +52,9 @@
         "vault"
       ],
       "chainId": 80001,
-      "address": "0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724",
-      "symbol": "TOSHI",
-      "name": "Toshimon",
+      "address": "0xe0695CD828B63C0E4b70fdD44d0f066560EE8CfE",
+      "symbol": "MIM",
+      "name": "MIM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/40/256x256.png"
     },
@@ -63,9 +63,9 @@
         "vault"
       ],
       "chainId": 80001,
-      "address": "0xc57bAa24F72037C21f9c0d345BB6F19f47407447",
-      "symbol": "TOPDOG",
-      "name": "Top Dog Beach Club",
+      "address": "0x1ac7b60D5dDeB00DF64C992c8c760463250Ca158",
+      "symbol": "DAI",
+      "name": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/51/256x256.png"
     },
@@ -74,44 +74,11 @@
         "vault"
       ],
       "chainId": 80001,
-      "address": "0x8d137e3337eb1B58A222Fef2B2Cc7C423903d9cf",
-      "symbol": "SQGL",
-      "name": "Chromie Squiggle",
+      "address": "0xfc5072BBfAB497346eEc2e6CAb0b28cbF2c1c4aC",
+      "symbol": "basev1",
+      "name": "basev1",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/27/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 80001,
-      "address": "0x97Aa8e14db0bc073cC7e2d42AC715427717d6042",
-      "symbol": "SPUNK",
-      "name": "SPUNKS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/45/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 80001,
-      "address": "0xc443930Ecd59e55e42Efe976B8a4bA0658f5c50a",
-      "symbol": "SODIUM",
-      "name": "My Fucking Pickles",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/14/256x256.png"
-    },
-    {
-      "tags": [
-        "vault"
-      ],
-      "chainId": 80001,
-      "address": "0x13edcC775f8895961B81Db5C0205889B3Afb3A16",
-      "symbol": "RINGER",
-      "name": "Ringers",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/NFTX-project/nftx-assets/main/vaults-v2/8/256x256.png"
     }
   ]
 }
